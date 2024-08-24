@@ -2,19 +2,17 @@ Hi there👋
 
 I'm a software engineer. When I was a student, I was involved in R&D of an Underwater Robotics, Competitions, and Robot SE/SIer.
 
-
-
-
 [![Likes](https://badgen.org/img/zenn/tasada038/likes?style=plastic&label=Likes)](https://zenn.dev/tasada038)<!-- Like のバッジ -->
 [![Articles](https://badgen.org/img/zenn/tasada038/articles?style=plastic&label=Articles)](https://zenn.dev/tasada038)<!-- Articles のバッジ -->
 [![Followers](https://badgen.org/img/zenn/tasada038/followers?style=plastic&label=Followers)](https://zenn.dev/tasada038)<!-- Followers のバッジ -->
 [![Books](https://badgen.org/img/zenn/tasada038/books?style=plastic&label=Bookes)](https://zenn.dev/tasada038?tab=books)<!-- Books のバッジ -->
 [![Scraps](https://badgen.org/img/zenn/tasada038/scraps?style=plastic&label=Scraps)](https://zenn.dev/tasada038?tab=scraps)<!-- Scraps のバッジ -->
+
+[![LAPRAS](https://img.shields.io/badge/LAPRAS-tasada038-5af)](https://lapras.com/public/T97RAMS)
+[![Twitter](https://img.shields.io/twitter/follow/tasada038?label=Followers%20%40tasada038&style=social)](https://twitter.com/tasada038)
 <a href="https://github.com/tasada038">
   <img height="20" src="https://img.shields.io/github/followers/tasada038?label=follow&logo=github&style=flat" />
 </a>
-
-[![Twitter](https://img.shields.io/twitter/follow/tasada038?label=Followers%20%40tasada038&style=social)](https://twitter.com/tasada038)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tasada038&theme=github)
 
